@@ -206,10 +206,10 @@ The results look good, but compared to lightGBM, they are still very low.
 The results received are relatively good.
 ![Alt text](image/26.png)
 
-# Author section
+# 5. Author section
 + Name: Nguyen Minh Quan, final year student of HCMUS 
 + Address: 20120554@student.hcmus.edu.vn or minhquannguyen20022002@gmail.com
-# Reference
+# 6. Reference
 + Dataset: [https://www.kaggle.com/competitions/pubg-finish-placement-prediction/overview](https://www.kaggle.com/competitions/pubg-finish-placement-prediction/overview)
 + LightGBM: [https://lightgbm.readthedocs.io/en/latest/index.html](https://lightgbm.readthedocs.io/en/latest/index.html)
 + RandomForest: [https://machinelearningcoban.com/tabml_book/ch_model/random_forest.html](https://machinelearningcoban.com/tabml_book/ch_model/random_forest.html)
